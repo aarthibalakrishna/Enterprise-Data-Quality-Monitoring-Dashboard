@@ -39,10 +39,14 @@ Dynamic Visuals: Line charts for monthly trends and horizontal bar charts for BU
 Complex Filtering: Multi-select slicers for Countries and Business Units.
 Conditional Formatting: Red/Yellow/Green indicators for SLA targets (Target: 90% | Red <75%).
 Data Modeling: Integrating disparate sources like LegacyApp and Oracle into a unified star schema.
-
+<br>
+  <h2>1</h2>
 <img width="1291" height="728" alt="image" src="https://github.com/user-attachments/assets/f3d3e724-a45c-4941-bab2-5c7596d34052" />
+  <h2>2</h2>
 <img width="1300" height="735" alt="image" src="https://github.com/user-attachments/assets/7e6d2679-ec33-4fba-893f-dd807e7cd495" />
+  <h2>3</h2>
 <img width="1291" height="731" alt="image" src="https://github.com/user-attachments/assets/c475734a-90cc-49fe-82ba-e53895af7a61" />
+  <h2>4</h2>
 <img width="1296" height="727" alt="image" src="https://github.com/user-attachments/assets/bb5323bd-208e-467a-a32d-89c2978b0235" />
 
 
